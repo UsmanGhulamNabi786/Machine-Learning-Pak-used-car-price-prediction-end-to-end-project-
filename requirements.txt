@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn==1.6.1
+numpy
+xgboost
+
+# Add any additional packages below as needed for future updates 
